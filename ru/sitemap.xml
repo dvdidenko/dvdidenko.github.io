@@ -44,6 +44,76 @@
                 href="http://localhost:1313/ru/post/"
                 />
   </url><url>
+    <loc>http://localhost:1313/ru/post/third-week/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/post/third-week/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="http://localhost:1313/ru/post/third-week/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ru/tags/academic/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/tags/academic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="http://localhost:1313/ru/tags/academic/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ru/tags/hugo-blox/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/tags/hugo-blox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="http://localhost:1313/ru/tags/hugo-blox/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ru/tags/markdown/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="http://localhost:1313/ru/tags/markdown/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ru/tags/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="http://localhost:1313/ru/tags/"
+                />
+  </url><url>
     <loc>http://localhost:1313/ru/post/second-week/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -58,20 +128,6 @@
                 href="http://localhost:1313/ru/post/second-week/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/academic/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/academic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="http://localhost:1313/ru/tags/academic/"
-                />
-  </url><url>
     <loc>http://localhost:1313/ru/tags/hugo/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -84,34 +140,6 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/hugo/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ru/tags/hugo-blox/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/hugo-blox/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="http://localhost:1313/ru/tags/hugo-blox/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ru/tags/markdown/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="http://localhost:1313/ru/tags/markdown/"
                 />
   </url><url>
     <loc>http://localhost:1313/ru/project/</loc>
@@ -140,20 +168,6 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/second-brain/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ru/tags/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="http://localhost:1313/ru/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/ru/project/hugo/</loc>

@@ -5,12 +5,42 @@
     <link>http://localhost:1313/tags/markdown/</link>
       <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Markdown</title>
       <link>http://localhost:1313/tags/markdown/</link>
     </image>
+    
+    <item>
+      <title>🎉 Отчёт за третью неделю...</title>
+      <link>http://localhost:1313/post/third-week/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/third-week/</guid>
+      <description>&lt;p&gt;Приветствую 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#что-же-поменялось-с-прошлого-поста&#34;&gt;Что же поменялось с прошлого поста?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;что-же-поменялось-с-прошлого-поста&#34;&gt;Что же поменялось с прошлого поста?&lt;/h2&gt;
+&lt;p&gt;Ну&amp;hellip; Время на 2 часа позже. Всё. На часах 8:37, в календаре 28.08.2024. я, наверное, запишу этот пост на 29.08, чтобы сохранилась хронология. Правда, если я говорю этому сайту, что я написал пост из будущего, он отказывается мне верить и не постит его. Буду надеятся, что когда будущее станет явью, он изменит своё мнение и всё-же покажет пост на главной странице.&lt;/p&gt;
+&lt;p&gt;А ещё я только что мисскликнул и научился ставить смайлики:😀️🤩️🫠️. Я использую это знание ответственно и запощу пердящего кита:🐋️💨.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>🎉 Новая неделя, старые проблемы</title>
@@ -226,7 +256,7 @@
 
 
 
-&lt;div id=&#34;chart-561389472&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-318956724&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -244,7 +274,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-561389472&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-318956724&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
