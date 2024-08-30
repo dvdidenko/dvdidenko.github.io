@@ -5,12 +5,114 @@
     <link>http://localhost:1313/ru/tags/hugo-blox/</link>
       <atom:link href="http://localhost:1313/ru/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Hugo Blox</title>
       <link>http://localhost:1313/ru/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>🎉 Четвёртая неделя...</title>
+      <link>http://localhost:1313/ru/post/fourth-week/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/post/fourth-week/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Содержание&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#ничего-не-поменялось&#34;&gt;Ничего не поменялось.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;ничего-не-поменялось&#34;&gt;Ничего не поменялось.&lt;/h2&gt;
+&lt;p&gt;Как бы мне не хотелось рассказать что-то новое, единственное, что поменялось с предыдущего этапа - это количество жидкости в баночке с рисунками в розовых оттенках и слов &amp;ldquo;Gorilla Energy: Cherry Berry&amp;rdquo;, написанных красивым, разноцветным шрифтом.&lt;/p&gt;
+&lt;p&gt;Уже совсем скоро конец.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🫠️Языки программирования</title>
+      <link>http://localhost:1313/ru/post/programming-languagess/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/post/programming-languagess/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Содержание&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#5-самых-популярных-языков-программирования&#34;&gt;5 самых популярных языков программирования&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h3 id=&#34;5-самых-популярных-языков-программирования&#34;&gt;5 самых популярных языков программирования&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Кратко&lt;/strong&gt;: Высокоуровневый, простой в освоении язык.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Где используют&lt;/strong&gt;: Web-разработка, анализ данных, искусственный интеллект, автоматизация.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Особенности&lt;/strong&gt;: Читаемый синтаксис, огромное количество библиотек.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Кратко&lt;/strong&gt;: Язык для создания интерактивных веб-страниц.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Где используют&lt;/strong&gt;: Frontend (интерфейсы сайтов), иногда Backend (Node.js), мобильные приложения.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Особенности&lt;/strong&gt;: Работает в браузере, популярен в веб-разработке.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Java&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Кратко&lt;/strong&gt;: Объектно-ориентированный язык, надёжный и масштабируемый.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Где используют&lt;/strong&gt;: Корпоративные приложения, Android-приложения, серверные решения.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Особенности&lt;/strong&gt;: Платформенная независимость благодаря JVM (Java Virtual Machine).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;C#&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Кратко&lt;/strong&gt;: Язык от Microsoft, подходит для различных приложений.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Где используют&lt;/strong&gt;: Разработка на .NET, игры (Unity), Windows-приложения.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Особенности&lt;/strong&gt;: Хорошо интегрируется с Windows, поддерживает ООП (объектно-ориентированное программирование).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;C++&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Кратко&lt;/strong&gt;: Мощный, низкоуровневый язык, расширение C.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Где используют&lt;/strong&gt;: Разработка системного ПО, игры, драйверы, встраиваемые системы.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Особенности&lt;/strong&gt;: Высокая производительность, контроль над памятью, сложнее в изучении.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>🎉 Отчёт за третью неделю...</title>
@@ -190,7 +292,7 @@
 
 
 
-&lt;div id=&#34;chart-371598462&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-927351648&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -208,7 +310,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-371598462&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-927351648&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

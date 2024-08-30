@@ -44,22 +44,22 @@
                 href="http://localhost:1313/ru/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/post/third-week/</loc>
-    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/ru/post/fourth-week/</loc>
+    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/post/third-week/"
+                href="http://localhost:1313/post/fourth-week/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/post/third-week/"
+                href="http://localhost:1313/ru/post/fourth-week/"
                 />
   </url><url>
     <loc>http://localhost:1313/ru/tags/academic/</loc>
-    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -73,7 +73,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ru/tags/hugo-blox/</loc>
-    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -87,7 +87,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ru/tags/markdown/</loc>
-    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -101,7 +101,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ru/tags/</loc>
-    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -112,6 +112,34 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ru/post/programming-languagess/</loc>
+    <lastmod>2024-08-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/post/programming-languagess/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="http://localhost:1313/ru/post/programming-languagess/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ru/post/third-week/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/post/third-week/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="http://localhost:1313/ru/post/third-week/"
                 />
   </url><url>
     <loc>http://localhost:1313/ru/post/second-week/</loc>
