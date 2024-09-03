@@ -5,12 +5,148 @@
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Blog</title>
       <link>http://localhost:1313/post/</link>
     </image>
+    
+    <item>
+      <title>🎉 Links to labs</title>
+      <link>http://localhost:1313/post/yt-rt-links/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/yt-rt-links/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#links&#34;&gt;Links&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;p&gt;Github repo:
+&lt;a href=&#34;https://github.com/dvdidenko/os-intro&#34;&gt;https://github.com/dvdidenko/os-intro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1 ЛР
+&lt;a href=&#34;https://youtu.be/HLm3faZb1J0&#34;&gt;https://youtu.be/HLm3faZb1J0&lt;/a&gt;
+&lt;a href=&#34;https://rutube.ru/video/private/43214823c09adfbf19d4132a73e911df/?p=4vafwqzWSKktnhGaV6sswA&#34;&gt;https://rutube.ru/video/private/43214823c09adfbf19d4132a73e911df/?p=4vafwqzWSKktnhGaV6sswA&lt;/a&gt;
+2 ЛР
+&lt;a href=&#34;https://youtu.be/fh-6JCjJFYE&#34;&gt;https://youtu.be/fh-6JCjJFYE&lt;/a&gt;
+&lt;a href=&#34;https://rutube.ru/video/private/02e615a84cb8eff21c768f07d2578ea5/?p=Vx41uiBbe1NuG2PCoYiXhA&#34;&gt;https://rutube.ru/video/private/02e615a84cb8eff21c768f07d2578ea5/?p=Vx41uiBbe1NuG2PCoYiXhA&lt;/a&gt;
+3 ЛР
+&lt;a href=&#34;https://youtu.be/kVl1WoZniKM&#34;&gt;https://youtu.be/kVl1WoZniKM&lt;/a&gt;
+&lt;a href=&#34;https://rutube.ru/video/private/801765145422422f559c4c0523e3d4ac/?p=nioVXnxLtiV6-JtVh90Khg&#34;&gt;https://rutube.ru/video/private/801765145422422f559c4c0523e3d4ac/?p=nioVXnxLtiV6-JtVh90Khg&lt;/a&gt;
+4 ЛР
+&lt;a href=&#34;https://youtu.be/zj0xCpYxtnE&#34;&gt;https://youtu.be/zj0xCpYxtnE&lt;/a&gt;
+&lt;a href=&#34;https://rutube.ru/video/private/82fce70cfd5fd6d11ee8fa6b8cd14888/?p=vExcVFO_wxj3Z5RbWiy7rQ&#34;&gt;https://rutube.ru/video/private/82fce70cfd5fd6d11ee8fa6b8cd14888/?p=vExcVFO_wxj3Z5RbWiy7rQ&lt;/a&gt;
+5 ЛР
+&lt;a href=&#34;https://youtu.be/bmkxPx5ZPLw&#34;&gt;https://youtu.be/bmkxPx5ZPLw&lt;/a&gt;
+&lt;a href=&#34;https://rutube.ru/video/private/9ed256d2b144b535e9aee7d04c378c76/?p=SaTJ5jqP26Ur43WtQo24hQ&#34;&gt;https://rutube.ru/video/private/9ed256d2b144b535e9aee7d04c378c76/?p=SaTJ5jqP26Ur43WtQo24hQ&lt;/a&gt;
+6 ЛР
+&lt;a href=&#34;https://youtu.be/TrGXiFhuZNg&#34;&gt;https://youtu.be/TrGXiFhuZNg&lt;/a&gt;
+&lt;a href=&#34;https://rutube.ru/video/private/00017c3e073737291c58da598756ec56/?p=kdhbLUI6uA6JfuWAVyoOxA&#34;&gt;https://rutube.ru/video/private/00017c3e073737291c58da598756ec56/?p=kdhbLUI6uA6JfuWAVyoOxA&lt;/a&gt;
+7 ЛР
+&lt;a href=&#34;https://youtu.be/QeANzKOQTXI&#34;&gt;https://youtu.be/QeANzKOQTXI&lt;/a&gt;
+&lt;a href=&#34;https://rutube.ru/video/private/a1fad3f66ffe64d73e3eb5a86aaf5911/?p=PlsHAy-wNOThM4obSMLbvA&#34;&gt;https://rutube.ru/video/private/a1fad3f66ffe64d73e3eb5a86aaf5911/?p=PlsHAy-wNOThM4obSMLbvA&lt;/a&gt;
+8 ЛР
+&lt;a href=&#34;https://youtu.be/d-NWhgOOwa0&#34;&gt;https://youtu.be/d-NWhgOOwa0&lt;/a&gt;
+&lt;a href=&#34;https://rutube.ru/video/private/185fb5e11562feebe637411507d82f6d/?p=mKb9li8RTBiR-oDW22NZkw&#34;&gt;https://rutube.ru/video/private/185fb5e11562feebe637411507d82f6d/?p=mKb9li8RTBiR-oDW22NZkw&lt;/a&gt;
+9 ЛР
+&lt;a href=&#34;https://youtu.be/J5caEi7m4k4&#34;&gt;https://youtu.be/J5caEi7m4k4&lt;/a&gt;
+&lt;a href=&#34;https://rutube.ru/video/private/a2173fc824b29bc3b364cf63a8583675/?p=ZWNceYcKr8K9U3evgcLNVg&#34;&gt;https://rutube.ru/video/private/a2173fc824b29bc3b364cf63a8583675/?p=ZWNceYcKr8K9U3evgcLNVg&lt;/a&gt;
+10 ЛР
+&lt;a href=&#34;https://youtu.be/hxOsCRUIsBY&#34;&gt;https://youtu.be/hxOsCRUIsBY&lt;/a&gt;
+&lt;a href=&#34;https://rutube.ru/video/private/810aa3e9ff815f27f72e425c6023dfd7/?p=WuAq9csgJxdEzw3k6bxuKQ&#34;&gt;https://rutube.ru/video/private/810aa3e9ff815f27f72e425c6023dfd7/?p=WuAq9csgJxdEzw3k6bxuKQ&lt;/a&gt;
+11 ЛР
+&lt;a href=&#34;https://youtu.be/57O__JZCM-Y&#34;&gt;https://youtu.be/57O__JZCM-Y&lt;/a&gt;
+&lt;a href=&#34;https://rutube.ru/video/private/b61db9509436a169a0c2ca673ac6ed36/?p=l9QaXbvfvpx6xByfhVT_ow&#34;&gt;https://rutube.ru/video/private/b61db9509436a169a0c2ca673ac6ed36/?p=l9QaXbvfvpx6xByfhVT_ow&lt;/a&gt;
+12 ЛР
+&lt;a href=&#34;https://youtu.be/UcivCLKJYAY&#34;&gt;https://youtu.be/UcivCLKJYAY&lt;/a&gt;
+&lt;a href=&#34;https://rutube.ru/video/private/fd33156bb14b68eb955c1fae5fd634b5/?p=vBkzpSPlVMgq-EJKby7OLA&#34;&gt;https://rutube.ru/video/private/fd33156bb14b68eb955c1fae5fd634b5/?p=vBkzpSPlVMgq-EJKby7OLA&lt;/a&gt;
+13 ЛР
+&lt;a href=&#34;https://youtu.be/raXT7I_BGCs&#34;&gt;https://youtu.be/raXT7I_BGCs&lt;/a&gt;
+&lt;a href=&#34;https://rutube.ru/video/private/4edde138bb61f37323f63226dc524faf/?p=X8ygR5gK-J3B0LmIt3XMmw&#34;&gt;https://rutube.ru/video/private/4edde138bb61f37323f63226dc524faf/?p=X8ygR5gK-J3B0LmIt3XMmw&lt;/a&gt;
+14 ЛР
+&lt;a href=&#34;https://youtu.be/qjOD6mhBj58&#34;&gt;https://youtu.be/qjOD6mhBj58&lt;/a&gt;
+&lt;a href=&#34;https://rutube.ru/video/private/9c1c14b79a2d78e581d75ea27635779e/?p=DgaFXv4sXWfWT-sGz23cdQ&#34;&gt;https://rutube.ru/video/private/9c1c14b79a2d78e581d75ea27635779e/?p=DgaFXv4sXWfWT-sGz23cdQ&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🫤️ Last post</title>
+      <link>http://localhost:1313/post/last-post/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/last-post/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#what-could-this-post-be-about&#34;&gt;What could this post be about.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#but-i-wont&#34;&gt;But I won&amp;rsquo;t.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#then-why&#34;&gt;Then why?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;what-could-this-post-be-about&#34;&gt;What could this post be about.&lt;/h2&gt;
+&lt;p&gt;According to the assignment, we were allowed to choose any topic for this post. This is a wonderful opportunity to share something really about yourself, and not about any boring things. And I would be happy to tell you, for example, about my favorite “Pieces of Media,” as they say on the English-speaking Internet. That is, about your favorite games, books, movies, etc.. And believe me, I have something to talk about, just the story of the girl from the funny parody picture above!&lt;/p&gt;
+&lt;h2 id=&#34;but-i-wont&#34;&gt;But I won&amp;rsquo;t.&lt;/h2&gt;
+&lt;p&gt;And it&amp;rsquo;s not because I don&amp;rsquo;t like to do it. On the contrary, talking about my favorite things is my favorite thing of all!&lt;/p&gt;
+&lt;h2 id=&#34;then-why&#34;&gt;Then why?&lt;/h2&gt;
+&lt;p&gt;I don&amp;rsquo;t want. You&amp;rsquo;re not interested. The task is completed, I&amp;rsquo;m calling it a day.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🫥️ Fifth week</title>
+      <link>http://localhost:1313/post/fifth-week/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/fifth-week/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#well-then&#34;&gt;Well then.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#sending-a-post-to-the-future&#34;&gt;Sending a post to the future&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;well-then&#34;&gt;Well then.&lt;/h2&gt;
+&lt;p&gt;At 10:02 am I finish doing the simplest part of the last stage of creating this site. I even liked it, except for the stress I went through in the beginning to make it all work. I am sincerely glad that some differences from the originally conceived look of this site are practically not justified in the methods of completing the task.&lt;/p&gt;
+&lt;h2 id=&#34;sending-a-post-to-the-future&#34;&gt;Sending a post to the future&lt;/h2&gt;
+&lt;p&gt;Indicated on 08/31/2024. I hope nothing breaks and the post will return to me in 3 days (for me it’s still August 28th).&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>🎉 Четвёртая неделя...</title>
@@ -350,7 +486,7 @@
 
 
 
-&lt;div id=&#34;chart-197843265&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-869473251&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -368,7 +504,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-197843265&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-869473251&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
